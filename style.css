@@ -1,0 +1,146 @@
+/* .hidden{
+    display: none;
+} */
+ 
+ /* .Form{
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+    font-style: oblique;
+    z-index: "Form";
+    cursor: not-allowed;
+    word-spacing: 10px;
+    text-decoration: underline;
+} 
+ .input2{
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+    font-style: oblique;
+    z-index: "Form";
+    cursor: not-allowed;
+    word-spacing: 10px;
+    text-decoration: underline;
+}   */
+
+/* .ulist{
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+    word-spacing: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 20px;
+    list-style: decimal-leading-zero;
+    z-index: "List";
+    cursor: pointer;
+    border-radius: 20px;
+    margin-top: 200px;
+} */
+
+/* .ulisthidden{
+    display: none;
+} */
+
+/* .stl{
+    height: 400px;
+    width: 400px;
+}
+
+.ChangeStl{
+    height: 500px;
+    width: 500px;
+} */
+
+/* Another Class Apply Karne Ke Liyen OK! */
+
+/* .Class{
+font-weight: bold;
+}
+
+.AnotherClass{
+    color: blue;
+} */
+
+/* Agr Hamain Kesi Tag Ki Koi Class Ya Id deni Hoto Hum Kis Tarah Degein For Example */
+
+/* setAttribute Kia Karta ha Bhai Ye Hamare Tag Ko Koi id Deni Ho Ya Koi Class Deni Hoto Hum setAttribute Se Denge  For Example! */
+
+/* .newClass{
+    background-color: red;
+} */
+
+/* //////////////////////////////////////////////////////////////////////////////// */
+
+/* ToDo AppliCation */
+
+/* .styling{
+    font-size: 17px;
+     font-family: 'Times New Roman', Times, serif;
+      color: green;
+       background-color: white ;
+        border-radius: 30px;
+         padding: 6.375px 12.75px;   
+         margin-left: 30px;       
+}
+.stylingbtn{
+    font-size: 17px;
+     font-family: 'Times New Roman', Times, serif;
+      color: red;
+       background-color: white ;
+        border-radius: 20px;
+         padding: 6.375px 12.75px;
+          margin-left: 10px;          
+}
+.listyle{
+    border-radius: 7px;
+    background-color: white;
+    color: black;
+    margin-bottom: 30px;
+}
+
+@media screen and (max-width: 980px) {
+    #input{
+      max-width: 500px;
+      text-align: center;
+    
+    }
+    body{
+        background-color: blue;
+    }
+  }
+  @media screen and (max-width: 785px) {
+    #input{
+      max-width: 300px;
+      text-align: center;
+    }
+    body{
+        background-color: green;
+    }
+  }
+  @media screen and (max-width: 580px) {
+    #input{
+      max-width: 120px;
+      text-align: center;
+    }
+    body{
+        background-color: green;
+    }
+  }
+  @media screen and (max-width: 50px) {
+    #input{
+      max-width: 1000px;
+      text-align: center;
+    }
+    body{
+        background-color: green;
+    }
+  } */
